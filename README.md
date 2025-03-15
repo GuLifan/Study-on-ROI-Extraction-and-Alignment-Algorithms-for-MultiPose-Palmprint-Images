@@ -1,13 +1,13 @@
 # MedicalEngineering-Graduation-Project
 
-Xi'an Jiaotong University Undergraduate Graduation Project (Minor)  西安交通大学本科毕业设计（辅修）
-**Topic:** Research on Multi-Pose Palmprint Region of Interest Extraction and Correction Algorithm  多姿态掌纹感兴趣区域提取与校正算法研究
-**School:** School of Future Technology  未来技术学院
-**Major:** 3005 Medical Engineering  3005医工学
-**Class:** Medical Engineering(Future) 2101  医工学未来2101
-**Name:** Gu Lifan  谷立帆
-**Student ID:** 2213210616   
-**Supervisor:** Zhong Dexing 钟德星/ 
+Xi'an Jiaotong University Undergraduate Graduation Project (Minor)  西安交通大学本科毕业设计（辅修）    
+**Topic:** Research on Multi-Pose Palmprint Region of Interest Extraction and Correction Algorithm  多姿态掌纹感兴趣区域提取与校正算法研究    
+**School:** School of Future Technology  未来技术学院    
+**Major:** 3005 Medical Engineering  3005医工学    
+**Class:** Medical Engineering(Future) 2101  医工学未来2101    
+**Name:** Gu Lifan  谷立帆    
+**Student ID:** 2213210616       
+**Supervisor:** Zhong Dexing 钟德星    
 
 Main work content:
 
