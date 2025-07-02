@@ -1,0 +1,5 @@
+train: /root/RTDETR/datasets/train/images
+val: /root/RTDETR/datasets/valid/images
+test: /root/RTDETR/datasets/test/images
+nc: 5
+names: ['rp','tpt','tpl','brl','bim']
